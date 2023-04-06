@@ -1,0 +1,380 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.98sucai.com/demo-15-4314.html",
+            "path": "index.html",
+            "saved": true,
+            "size": 1845,
+            "children": [
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/images/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.3.min.js",
+                    "path": "js/jquery-2.0.3.min.js",
+                    "saved": true,
+                    "size": 83612,
+                    "children": []
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/js/jquery.qrcode.min.js",
+                    "path": "js/jquery.qrcode.min.js",
+                    "saved": true,
+                    "size": 13995,
+                    "children": []
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/layui/layui.js",
+                    "path": "js/layui.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/js/sucai.js?1631874355",
+                    "path": "js/sucai.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/layui/css/layui.css",
+                    "path": "css/layui.css",
+                    "saved": true,
+                    "size": 74281,
+                    "children": [
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/layui/font/iconfont.eot?v=256",
+                            "path": "fonts/iconfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/layui/font/iconfont.woff2?v=256",
+                            "path": "fonts/iconfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/layui/font/iconfont.woff?v=256",
+                            "path": "fonts/iconfont_1.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/layui/font/iconfont.ttf?v=256",
+                            "path": "fonts/iconfont_1.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/layui/font/iconfont.svg?v=256#layui-icon",
+                            "path": "img/iconfont_1.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/css/sucai.css?1657694788",
+                    "path": "css/sucai.css",
+                    "saved": true,
+                    "size": 38762,
+                    "children": [
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/download.svg",
+                            "path": "img/download.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/rulersIcos.png",
+                            "path": "img/rulersIcos.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/iframeBg.gif",
+                            "path": "img/iframeBg.gif",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/login-box.png",
+                            "path": "img/login-box.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/icon-qq.png",
+                            "path": "img/icon-qq.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/icon-weibo.png",
+                            "path": "img/icon-weibo.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/on.png",
+                            "path": "img/on.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/images/sign.png",
+                            "path": "img/sign.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/font/iconfont.css",
+                    "path": "css/iconfont.css",
+                    "saved": true,
+                    "size": 11311,
+                    "children": [
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/font/iconfont.eot?t=1589107762929",
+                            "path": "fonts/iconfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/font/iconfont.woff?t=1589107762929",
+                            "path": "fonts/iconfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/font/iconfont.ttf?t=1589107762929",
+                            "path": "fonts/iconfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/static/skin/app2020/font/iconfont.svg?t=1589107762929#iconfont",
+                            "path": "img/iconfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.98sucai.com/static/skin/app2020/images/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://www.98sucai.com/demo/effect/0229/",
+                    "path": "0229.html",
+                    "saved": true,
+                    "size": 2428,
+                    "children": [
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/images/bg-01.jpg",
+                            "path": "img/bg-01.jpeg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/vendor/jquery/jquery-3.2.1.min.js",
+                            "path": "js/jquery-3.2.1.min.js",
+                            "saved": true,
+                            "size": 86659,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/js/main.js",
+                            "path": "js/main.js",
+                            "saved": true,
+                            "size": 1818,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/vendor/bootstrap/css/bootstrap.min.css",
+                            "path": "css/bootstrap.min.css",
+                            "saved": true,
+                            "size": 124962,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/css/font-awesome.min.css",
+                            "path": "css/font-awesome.min.css",
+                            "saved": true,
+                            "size": 30959,
+                            "children": [
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0",
+                                    "path": "fonts/fontawesome-webfont.eot",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                                    "path": "fonts/fontawesome-webfont_1.eot",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                                    "path": "fonts/fontawesome-webfont.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0",
+                                    "path": "fonts/fontawesome-webfont.woff",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0",
+                                    "path": "fonts/fontawesome-webfont.ttf",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+                                    "path": "img/fontawesome-webfont.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/fonts/iconic/css/material-design-iconic-font.min.css",
+                            "path": "css/material-design-iconic-font.min.css",
+                            "saved": true,
+                            "size": 70791,
+                            "children": [
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0",
+                                    "path": "fonts/Material-Design-Iconic-Font.woff2",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/iconic/fonts/Material-Design-Iconic-Font.woff?v=2.2.0",
+                                    "path": "fonts/Material-Design-Iconic-Font.woff",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "https://www.98sucai.com/demo/effect/0229/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf?v=2.2.0",
+                                    "path": "fonts/Material-Design-Iconic-Font.ttf",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/css/util.css",
+                            "path": "css/util.css",
+                            "saved": true,
+                            "size": 83821,
+                            "children": []
+                        },
+                        {
+                            "url": "https://www.98sucai.com/demo/effect/0229/css/main.css",
+                            "path": "css/main.css",
+                            "saved": true,
+                            "size": 8760,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "www-98sucai-com-eqh2anor",
+    "info": {
+        "remark": [],
+        "title": "紫色渐变登录页面 - 效果演示 - -98素材网",
+        "domain": "www.98sucai.com",
+        "origin": "https://www.98sucai.com",
+        "ip": "211.149.239.166",
+        "main": "index.html",
+        "url": "https://www.98sucai.com/demo-15-4314.html",
+        "totalSize": "634 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.98sucai.com/demo-15-4314.html",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.98sucai.com/demo-15-4314.html",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "Tengine",
+                "date": "Fri, 11 Nov 2022 02:37:08 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding"
+            }
+        },
+        "time": {
+            "start": "2022-11-11T02:37:09.253Z",
+            "end": "2022-11-11T02:37:25.926Z"
+        }
+    },
+    "options": {
+        "url": "https://www.98sucai.com/demo-15-4314.html",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
